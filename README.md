@@ -24,9 +24,9 @@ I leverage generative AI to orchestrate sophisticated user experiences—like re
 *"Align on outcomes, prototype quickly, and refine relentlessly."*
 
 I maintain a [Laboratory Repository](https://github.com/Jackster042/lab) as a public roadmap for upcoming systems. Currently exploring:
-- **Distributed Caching & Real-time Agents:** Solving latency in collaborative AI environments.
-- **Advanced PostgreSQL Patterns:** Optimizing deep-data fintech visualizations.
-- **Next.js 15 (Turbopack) & React 19:** Pushing the limits of modern rendering logic.
+- **Real Estate Systems (Architecture Pivot):** Migrating from Next.js to **TanStack Start** to implement 100% type-safe routing and granular server-state patterns.
+- **Canvas Cameo V2 (System Deconstruction):** Decoupling a "Distributed Monolith" into a truly **Event-Driven Microservices** architecture using message brokers.
+- **Next.js 15 & React 19:** Validating the limits of Turbopack and modern rendering logic for low-latency AI orchestration.
 
 *Source code for these experiments is pushed only once it meets my standards for engineering integrity.*
 
