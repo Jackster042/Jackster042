@@ -39,6 +39,7 @@ I build tools that respect the user's time and intelligence. My focus is on ship
 - **LinkedIn:** [nemanja-stojanovic](https://www.linkedin.com/in/nemanja-stojanovic-3503ab197/)
 - **Email:** feemail042@gmail.com
 - **Portfolio:** [coming-soon.com](https://coming-soon.com)
+- **Resume:** https://drive.google.com/file/d/1JPS3k6L-rVkvU0rHqPogq7hdo9-l4SgK/view?usp=drive_link
 
 ---
 
