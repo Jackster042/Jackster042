@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Nemanja Stojanovic 👋 
 
-<!--
-**Jackster042/Jackster042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | TypeScript & Full-Stack Systems
 
-Here are some ideas to get you started:
+I am a Software Engineer focused on building production-grade, scalable applications. With a background in Economics and a deep passion for system architecture, I specialize in the TypeScript ecosystem, real-time AI integrations, and resilient backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm working on
+- 🛒 **Elora**: A high-concurrency e-commerce platform with complex state management.
+- 🎙️ **Certum AI**: Low-latency AI voice interview SaaS using Hume AI and Gemini.
+- 🎓 **Mentora**: Real-time AI tutoring engine with sub-second voice synthesis.
+- 📈 **StockTrail**: Performance-optimized fintech tracker processing 50k+ market calls/day.
+
+### 🛠 Tech Stack
+- **Frontend:** React 19, Next.js 15 (App Router), Tailwind CSS, Framer Motion.
+- **Backend:** Node.js, Express, tRPC, Inngest (Background Jobs), Server Actions.
+- **Data:** PostgreSQL (Drizzle, Prisma), MongoDB (Mongoose), Supabase RLS, Redis.
+- **Infrastructure:** Vercel, AWS S3, Docker, Sentry, Arcjet.
+
+### 📫 Connect with me:
+- **LinkedIn:** [nemanja-stojanovic-3503ab197](https://www.linkedin.com/in/nemanja-stojanovic-3503ab197/)
+- **Email:** feemail042@gmail.com
+- **Portfolio:** [coming-soon.com](https://coming-soon.com)
+
+---
+
+### 📊 GitHub Stats
+![Nemanja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackster042&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackster042&layout=compact&theme=transparent)
