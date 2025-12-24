@@ -41,7 +41,3 @@ I build tools that respect the user's time and intelligence. My focus is on ship
 - **Portfolio:** [https://portfolio-n7.netlify.app/]
 
 ---
-
-### 📊 Engineering Activity
-![Nemanja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackster042&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackster042&layout=compact&theme=transparent)
