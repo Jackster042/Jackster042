@@ -19,8 +19,8 @@ I believe that while AI is a powerful assistant, it is no substitute for clean a
 ### 🏛️ Engineering Blueprints
 *Standardized frameworks designed for rapid, high-integrity deployment.*
 
-- **[Production API Blueprint](./blueprints/production_api_blueprint.md):** A technology-agnostic framework (Bun, Express 5, Drizzle, Arcjet) focused on "Shift-Left" security and edge-ready modularity.
-- **[CTO Operating System](./cto-os/):** A governance framework for managing engineering teams, technical roadmaps, and structured decision-making.
+- **[Production API Blueprint](./blueprints/production-api-blueprint.md):** A technology-agnostic framework (Bun, Express 5, Drizzle, Arcjet) focused on "Shift-Left" security and edge-ready modularity.
+- **[CTO Operating System](./governance/):** A governance framework for managing engineering teams, technical roadmaps, and structured decision-making.
 
 ---
 
