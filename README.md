@@ -21,9 +21,9 @@ First full-stack exploration. MERN stack with PayPal integration.
 - Edge computing patterns
 
 ### Lab
-Experimental concepts & learning projects → [github.com/Jackster042/lab](link)
+Experimental concepts & learning projects → [github.com/Jackster042/lab](https://github.com/Jackster042/lab)
 
 ### Contact
 - LinkedIn: [nemanja-stojanovic](link)
-- Portfolio: [portfolio-n7.netlify.app](link)
+- Portfolio: [portfolio-n7.netlify.app](https://portfolio-n7.netlify.app/)
 - Email: feemail042@gmail.com
