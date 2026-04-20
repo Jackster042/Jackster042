@@ -1,32 +1,64 @@
-## Nemanja | Software Engineer
+# Nemanja Stojanovic
 
-I build production-grade AI applications. Currently focused on real-time voice systems and emotion analysis.
+Software engineer from Serbia with full-stack experience, currently focusing on
+backend architecture, real-time systems, distributed systems, and gradually
+expanding into cloud engineering.
 
-### Featured Projects
+This profile is being intentionally restructured.
 
-**[Mentora](https://github.com/Jackster042/mentora)** — Voice-first AI learning platform  
-Real-time voice synthesis with Vapi.ai + ElevenLabs. Multi-tenant auth with Clerk + Supabase RLS.  
-*Stack: Next.js 15, TypeScript, PostgreSQL*
+Rather than keeping older projects front and center, I’m narrowing my public
+work toward the kind of engineering problems I want to solve long-term:
+scalable backend systems, reliable infrastructure, real-time communication, and
+full-stack products with stronger architectural depth.
 
-**[Certum AI](https://github.com/Jackster042/certum-ai)** — Emotion-aware interview assistant  
-Real-time emotion analysis (Hume AI) + Gemini 2.5 Flash feedback. Feature-based architecture with Server Actions.  
-*Stack: Next.js, Drizzle ORM, Neon*
+## Current Focus
 
-**[Live Score API](https://github.com/Jackster042/live-score-api)** — Distributed systems showcase
-Horizontally-scalable WebSocket API with Redis Pub/Sub, PostgreSQL transactions, and BullMQ.
+- Backend architecture
+- Real-time systems
+- Distributed systems fundamentals
+- Queues, workers, and event-driven workflows
+- Data consistency, scalability, and reliability
+- Cloud engineering fundamentals
+- Infrastructure and deployment patterns
+- Complex full-stack product design
 
-**[Elora](https://github.com/Jackster042/elora)** — E-commerce learning project (2023)  
-First full-stack exploration. MERN stack with PayPal integration.  
-*Note: Early work; learned importance of transactions/idempotency applied in later projects.*
+## Featured Project
 
-### Currently Exploring
-- Distributed systems (Redis, WebSocket scaling)
-- Edge computing patterns
+### Live Score API
 
-### Lab
-Experimental concepts & learning projects → [github.com/Jackster042/lab](https://github.com/Jackster042/lab)
+Horizontally scalable real-time sports API built with WebSockets, Redis
+Pub/Sub, PostgreSQL transactions, and BullMQ.
 
-### Contact
-- LinkedIn: [nemanja-stojanovic](link)
+This is currently the main public project on my profile because it best
+represents the direction I want to keep building in: real-time communication,
+scalable backend design, distributed coordination, and production-minded system
+thinking.
+
+## Currently Exploring
+
+- Redis patterns for coordination and caching
+- WebSocket scaling strategies
+- Queue-based processing and retry semantics
+- System design tradeoffs in distributed applications
+- Cloud infrastructure concepts and deployment workflows
+- Containers, hosting, and reliability patterns
+
+## Current Direction
+
+- Restructuring my GitHub profile around stronger long-term work
+- Moving away from generic app development toward deeper engineering problems
+- Continuing to strengthen backend and systems knowledge
+- Exploring cloud engineering as a natural extension of scalable backend work
+- Planning future projects with higher architectural complexity
+
+## Notes
+
+Public output may stay selective for some time due to current offline
+priorities, but the direction is intentional: fewer projects, better quality,
+and deeper engineering.
+
+## Contact
+
+- LinkedIn: [nemanja042](https://www.linkedin.com/in/nemanja042)
 - Portfolio: [portfolio-n7.netlify.app](https://portfolio-n7.netlify.app/)
 - Email: feemail042@gmail.com
